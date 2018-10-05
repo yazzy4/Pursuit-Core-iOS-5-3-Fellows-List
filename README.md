@@ -36,8 +36,8 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 
 ## Q
  
-## R
- 
+## R 
+ Raymond Donkemezuo [github url](https://github.com/Donkemezuo/) 
 ## S 
 
 ## T
